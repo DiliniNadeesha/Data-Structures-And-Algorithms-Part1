@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1 - Stack/1 - Stack.iml" filepath="$PROJECT_DIR$/1 - Stack/1 - Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 - Dynamic Array/2 - Dynamic Array.iml" filepath="$PROJECT_DIR$/2 - Dynamic Array/2 - Dynamic Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 - LinkedList/3 - LinkedList.iml" filepath="$PROJECT_DIR$/3 - LinkedList/3 - LinkedList.iml" />
+    </modules>
+  </component>
+</project>
